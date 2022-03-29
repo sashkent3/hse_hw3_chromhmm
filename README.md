@@ -18,3 +18,20 @@
 
 ## Папка с выдачей ChromHMM
 Расположена ![тут](https://github.com/sashkent3/hse_hw3_chromhmm/tree/main/ChromHMM_output).
+
+## Картинки из выдачи ChromHMM
+![emissions](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/ChromHMM_output/emissions_10.png)![overlap](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/ChromHMM_output/NH-A_10_overlap.png)
+
+## Табличка
+|State|Color|Name|
+|-|-|-|
+|1|Dark Blue|Active Promoter|
+|2|Blue|Weak Enhancer|
+|3|Emerald Green|Strong Enhancer|
+|4|Purple|Weak Promoter|
+|5|Green|Weak Txn|
+|6|Dark Green|Txn Elongation|
+|7|Red|Txn Elongation|
+|8|Beige|Repressed Heterochromatin|
+|9|Yellow|Repressed Heterochromatin|
+|10|Pink|Repressed Heterochromatin|
