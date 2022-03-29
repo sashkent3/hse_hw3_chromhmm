@@ -22,7 +22,7 @@
 ## Картинки из выдачи ChromHMM
 ![emissions](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/ChromHMM_output/emissions_10.png)![overlap](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/ChromHMM_output/NH-A_10_overlap.png)
 
-## Табличка
+## Табличка эпигенетических типов
 |State|Color|Name|
 |-|-|-|
 |1|Dark Blue|Active Promoter|
@@ -35,3 +35,11 @@
 |8|Beige|Repressed Heterochromatin|
 |9|Yellow|Repressed Heterochromatin|
 |10|Pink|Repressed Heterochromatin|
+## Картинки из UCSC GenomeBrowser
+![](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/Screenshot1.png)
+![](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/Screenshot2.png)
+![](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/Screenshot3.png)
+## Список всех запущенных команд
+В ![коллабе](https://colab.research.google.com/drive/1aVcCz3oGEw4kZ1YN2f5NsZ9Wt64258H4?usp=sharing).
+## Бонус
+Аннотированный dense.bed файл расположен ![тут](https://github.com/sashkent3/hse_hw3_chromhmm/raw/main/NH-A_10_dense_annotated.bed).
