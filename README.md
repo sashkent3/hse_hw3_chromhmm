@@ -15,3 +15,6 @@
 
 ## Файл cellmarkfiletable
 Расположен ![тут](https://github.com/sashkent3/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt).
+
+## Папка с выдачей ChromHMM
+Расположена ![тут](https://github.com/sashkent3/hse_hw3_chromhmm/tree/main/ChromHMM_output).
