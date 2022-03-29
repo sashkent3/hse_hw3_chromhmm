@@ -1,5 +1,5 @@
 # hse_hw3_chromhmm
-
+## Список гистоновых меток
 |Гистоновая метка|Название файла|
 |-|-|
 |H2az|H2azStdAlnRep1.bam|
@@ -12,3 +12,6 @@
 |H3k79me2|H3k79me2AlnRep1.bam|
 |H3k04me2|H3k04me2AlnRep1.bam|
 |H3k09me3|H3k09me3AlnRep1.bam|
+
+## Файл cellmarkfiletable
+Расположен ![тут](https://github.com/sashkent3/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt).
